@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Object A",
+    "teaser": "Die Mönche haben Zeit für Gott und reservieren sich regelmässig Stunden gemeinsamen Gotteslobes. Gott heiligt die Menschen, wenn sie beten. Nach alter Tradition bilden die Psalmen einen wesentlichen Bestandteil dieses Gebetes. Typisch klösterlich ist die Atmosphäre von Stille und Besinnung. Der Mönch soll zu sich selber kommen, um ganz für Gott und für die anderen dasein zu können.",
+    "content": "Unsere Lebensgemeinschaft folgt dem Vorbild Jesu mit seinen Jüngern und der Urkirche. Christus ist das eigentliche Haupt der Klostergemeinschaft. Im Glauben sehen wir im Abt den Stellvertreter Christi im Kloster. Er hat mit seinem Leitungsamt eine geistige Vaterschaft übernommen. Das Kloster ist Ort der Arbeit und vielfältiger Tätigkeiten, für die ein gesunder Rhythmus des Tagesablaufs vorgegeben ist. Die Arbeit ist ein notwendiger Dienst an der Gemeinschaft und bedeutet gleichzeitig Teilnahme am Schöpfungs- und Heilswirken Gottes. Der Mönch lebt \"allein\", ohne ein Du in der Ehe. Die Ehelosigkeit um des Himmelreiches willen ist eine wertvolle Gnadengabe. Zusammen mit der Keuschheit des Leibes und der Gedanken macht sie das Herz frei für die ungeteilte Liebe zu Christus und für die Liebe zu allen Menschen. Der Mönch setzt ein Zeichen und Zeugnis: Das irdische Leben ist nur etwas vorletztes. Der Mönch glaubt an \"das Leben der zukünftigen Welt\" Gottes. Darum kann er auf vorletzte Werte (z.B. Reichtum) verzichten.",
+    "qrcode": "a",
+    "file": [{
+    	"type": "jpeg",
+    	"url" : "http://localhost:3000/files/a.jpeg"
+    	}],
+    "room": {
+      "000000004af0b2e20000000015508849": {
+        "title": "Kapelle"
+      }
+    }
+  },
+  {
+    "title": "Object B",
+    "teaser": "Die Mönche haben Zeit für Gott und reservieren sich regelmässig Stunden gemeinsamen Gotteslobes. Gott heiligt die Menschen, wenn sie beten. Nach alter Tradition bilden die Psalmen einen wesentlichen Bestandteil dieses Gebetes. Typisch klösterlich ist die Atmosphäre von Stille und Besinnung. Der Mönch soll zu sich selber kommen, um ganz für Gott und für die anderen dasein zu können.",
+    "content": "Unsere Lebensgemeinschaft folgt dem Vorbild Jesu mit seinen Jüngern und der Urkirche. Christus ist das eigentliche Haupt der Klostergemeinschaft. Im Glauben sehen wir im Abt den Stellvertreter Christi im Kloster. Er hat mit seinem Leitungsamt eine geistige Vaterschaft übernommen. Das Kloster ist Ort der Arbeit und vielfältiger Tätigkeiten, für die ein gesunder Rhythmus des Tagesablaufs vorgegeben ist. Die Arbeit ist ein notwendiger Dienst an der Gemeinschaft und bedeutet gleichzeitig Teilnahme am Schöpfungs- und Heilswirken Gottes. Der Mönch lebt \"allein\", ohne ein Du in der Ehe. Die Ehelosigkeit um des Himmelreiches willen ist eine wertvolle Gnadengabe. Zusammen mit der Keuschheit des Leibes und der Gedanken macht sie das Herz frei für die ungeteilte Liebe zu Christus und für die Liebe zu allen Menschen. Der Mönch setzt ein Zeichen und Zeugnis: Das irdische Leben ist nur etwas vorletztes. Der Mönch glaubt an \"das Leben der zukünftigen Welt\" Gottes. Darum kann er auf vorletzte Werte (z.B. Reichtum) verzichten.",
+    "qrcode": "b",
+    "file": [{
+    	"type": "jpeg",
+    	"url" : "http://localhost:3000/files/b.jpeg"
+    	}],
+    "room": {
+      "000000004af0b2e20000000015508849": {
+        "title": "Keller"
+      }
+    }
+  },
+  {
+    "title": "Object C",
+    "teaser": "Die Mönche haben Zeit für Gott und reservieren sich regelmässig Stunden gemeinsamen Gotteslobes. Gott heiligt die Menschen, wenn sie beten. Nach alter Tradition bilden die Psalmen einen wesentlichen Bestandteil dieses Gebetes. Typisch klösterlich ist die Atmosphäre von Stille und Besinnung. Der Mönch soll zu sich selber kommen, um ganz für Gott und für die anderen dasein zu können.",
+    "content": "Unsere Lebensgemeinschaft folgt dem Vorbild Jesu mit seinen Jüngern und der Urkirche. Christus ist das eigentliche Haupt der Klostergemeinschaft. Im Glauben sehen wir im Abt den Stellvertreter Christi im Kloster. Er hat mit seinem Leitungsamt eine geistige Vaterschaft übernommen. Das Kloster ist Ort der Arbeit und vielfältiger Tätigkeiten, für die ein gesunder Rhythmus des Tagesablaufs vorgegeben ist. Die Arbeit ist ein notwendiger Dienst an der Gemeinschaft und bedeutet gleichzeitig Teilnahme am Schöpfungs- und Heilswirken Gottes. Der Mönch lebt \"allein\", ohne ein Du in der Ehe. Die Ehelosigkeit um des Himmelreiches willen ist eine wertvolle Gnadengabe. Zusammen mit der Keuschheit des Leibes und der Gedanken macht sie das Herz frei für die ungeteilte Liebe zu Christus und für die Liebe zu allen Menschen. Der Mönch setzt ein Zeichen und Zeugnis: Das irdische Leben ist nur etwas vorletztes. Der Mönch glaubt an \"das Leben der zukünftigen Welt\" Gottes. Darum kann er auf vorletzte Werte (z.B. Reichtum) verzichten.",
+    "qrcode": "c",
+    "file": [{
+    	"type": "jpeg",
+    	"url" : "http://localhost:3000/files/c.jpeg"
+    	}],
+    "room": {
+      "000000004af0b2e20000000015508849": {
+        "title": "Kapelle"
+      }
+    }
+  }
+]
