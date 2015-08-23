@@ -8,5 +8,5 @@
 
 ## Routes
 
-Get all objects: http://localhost:3000/data
-Get a image: http://localhost:3000/files/a.jpeg
+- Get all objects: http://localhost:3000/data
+- Get a image: http://localhost:3000/files/a.jpeg
