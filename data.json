@@ -1,47 +1,58 @@
 [
   {
-    "title": "Object A",
-    "teaser": "Die Mönche haben Zeit für Gott und reservieren sich regelmässig Stunden gemeinsamen Gotteslobes. Gott heiligt die Menschen, wenn sie beten. Nach alter Tradition bilden die Psalmen einen wesentlichen Bestandteil dieses Gebetes. Typisch klösterlich ist die Atmosphäre von Stille und Besinnung. Der Mönch soll zu sich selber kommen, um ganz für Gott und für die anderen dasein zu können.",
-    "content": "Unsere Lebensgemeinschaft folgt dem Vorbild Jesu mit seinen Jüngern und der Urkirche. Christus ist das eigentliche Haupt der Klostergemeinschaft. Im Glauben sehen wir im Abt den Stellvertreter Christi im Kloster. Er hat mit seinem Leitungsamt eine geistige Vaterschaft übernommen. Das Kloster ist Ort der Arbeit und vielfältiger Tätigkeiten, für die ein gesunder Rhythmus des Tagesablaufs vorgegeben ist. Die Arbeit ist ein notwendiger Dienst an der Gemeinschaft und bedeutet gleichzeitig Teilnahme am Schöpfungs- und Heilswirken Gottes. Der Mönch lebt \"allein\", ohne ein Du in der Ehe. Die Ehelosigkeit um des Himmelreiches willen ist eine wertvolle Gnadengabe. Zusammen mit der Keuschheit des Leibes und der Gedanken macht sie das Herz frei für die ungeteilte Liebe zu Christus und für die Liebe zu allen Menschen. Der Mönch setzt ein Zeichen und Zeugnis: Das irdische Leben ist nur etwas vorletztes. Der Mönch glaubt an \"das Leben der zukünftigen Welt\" Gottes. Darum kann er auf vorletzte Werte (z.B. Reichtum) verzichten.",
-    "qrcode": "a",
-    "file": [{
-    	"type": "jpeg",
-    	"url" : "http://localhost:3000/files/a.jpeg"
-    	}],
-    "room": {
-      "000000004af0b2e20000000015508849": {
-        "title": "Kapelle"
+    "content": {
+      "00000000221b14390000000026240c70": {
+        "content": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "image": {
+          "00000000221b147a0000000026240c70": {
+            "originalResource": {
+              "publicUrl": "files/a.jpeg"
+            },
+            "pid": 137,
+            "uid": 42
+          }
+        },
+        "pid": 137,
+        "qrcode": "PageQRCode1",
+        "room": {
+          "pid": 138,
+          "position": 1,
+          "qrcode": "code45456391",
+          "title": "Raum 1",
+          "uid": 1
+        },
+        "teaser": "Bubu Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+        "title": "Inahlt",
+        "type": "content",
+        "uid": 1
       }
-    }
+    },
+    "pid": 137,
+    "title": "Seite 1",
+    "uid": 1
   },
   {
-    "title": "Object B",
-    "teaser": "Die Mönche haben Zeit für Gott und reservieren sich regelmässig Stunden gemeinsamen Gotteslobes. Gott heiligt die Menschen, wenn sie beten. Nach alter Tradition bilden die Psalmen einen wesentlichen Bestandteil dieses Gebetes. Typisch klösterlich ist die Atmosphäre von Stille und Besinnung. Der Mönch soll zu sich selber kommen, um ganz für Gott und für die anderen dasein zu können.",
-    "content": "Unsere Lebensgemeinschaft folgt dem Vorbild Jesu mit seinen Jüngern und der Urkirche. Christus ist das eigentliche Haupt der Klostergemeinschaft. Im Glauben sehen wir im Abt den Stellvertreter Christi im Kloster. Er hat mit seinem Leitungsamt eine geistige Vaterschaft übernommen. Das Kloster ist Ort der Arbeit und vielfältiger Tätigkeiten, für die ein gesunder Rhythmus des Tagesablaufs vorgegeben ist. Die Arbeit ist ein notwendiger Dienst an der Gemeinschaft und bedeutet gleichzeitig Teilnahme am Schöpfungs- und Heilswirken Gottes. Der Mönch lebt \"allein\", ohne ein Du in der Ehe. Die Ehelosigkeit um des Himmelreiches willen ist eine wertvolle Gnadengabe. Zusammen mit der Keuschheit des Leibes und der Gedanken macht sie das Herz frei für die ungeteilte Liebe zu Christus und für die Liebe zu allen Menschen. Der Mönch setzt ein Zeichen und Zeugnis: Das irdische Leben ist nur etwas vorletztes. Der Mönch glaubt an \"das Leben der zukünftigen Welt\" Gottes. Darum kann er auf vorletzte Werte (z.B. Reichtum) verzichten.",
-    "qrcode": "b",
-    "file": [{
-    	"type": "jpeg",
-    	"url" : "http://localhost:3000/files/b.jpeg"
-    	}],
-    "room": {
-      "000000004af0b2e20000000015508849": {
-        "title": "Keller"
+    "content": {
+      "00000000221b14440000000026240c70": {
+        "content": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed  diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.  Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor  sit amet.\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed  diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.  Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor  sit amet.",
+        "image": [],
+        "pid": 137,
+        "qrcode": "ContentQrCode2",
+        "room": {
+          "pid": 138,
+          "position": 222,
+          "qrcode": "code899038",
+          "title": "Raum 2",
+          "uid": 2
+        },
+        "teaser": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+        "title": "Inhalt 2",
+        "type": "content",
+        "uid": 2
       }
-    }
-  },
-  {
-    "title": "Object C",
-    "teaser": "Die Mönche haben Zeit für Gott und reservieren sich regelmässig Stunden gemeinsamen Gotteslobes. Gott heiligt die Menschen, wenn sie beten. Nach alter Tradition bilden die Psalmen einen wesentlichen Bestandteil dieses Gebetes. Typisch klösterlich ist die Atmosphäre von Stille und Besinnung. Der Mönch soll zu sich selber kommen, um ganz für Gott und für die anderen dasein zu können.",
-    "content": "Unsere Lebensgemeinschaft folgt dem Vorbild Jesu mit seinen Jüngern und der Urkirche. Christus ist das eigentliche Haupt der Klostergemeinschaft. Im Glauben sehen wir im Abt den Stellvertreter Christi im Kloster. Er hat mit seinem Leitungsamt eine geistige Vaterschaft übernommen. Das Kloster ist Ort der Arbeit und vielfältiger Tätigkeiten, für die ein gesunder Rhythmus des Tagesablaufs vorgegeben ist. Die Arbeit ist ein notwendiger Dienst an der Gemeinschaft und bedeutet gleichzeitig Teilnahme am Schöpfungs- und Heilswirken Gottes. Der Mönch lebt \"allein\", ohne ein Du in der Ehe. Die Ehelosigkeit um des Himmelreiches willen ist eine wertvolle Gnadengabe. Zusammen mit der Keuschheit des Leibes und der Gedanken macht sie das Herz frei für die ungeteilte Liebe zu Christus und für die Liebe zu allen Menschen. Der Mönch setzt ein Zeichen und Zeugnis: Das irdische Leben ist nur etwas vorletztes. Der Mönch glaubt an \"das Leben der zukünftigen Welt\" Gottes. Darum kann er auf vorletzte Werte (z.B. Reichtum) verzichten.",
-    "qrcode": "c",
-    "file": [{
-    	"type": "jpeg",
-    	"url" : "http://localhost:3000/files/c.jpeg"
-    	}],
-    "room": {
-      "000000004af0b2e20000000015508849": {
-        "title": "Kapelle"
-      }
-    }
+    },
+    "pid": 137,
+    "title": "Seite 2",
+    "uid": 2
   }
 ]
