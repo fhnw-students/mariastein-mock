@@ -1,0 +1,37 @@
+[
+  {
+    "image": {
+      "000000000f1ce891000000002d003f1b": {
+        "originalResource": {
+          "description": null,
+          "publicUrl": "fileadmin/redaktion/benediktinerkloster/bilder/app/rooms/r1_preview.jpeg",
+          "title": "preview"
+        },
+        "pid": 138,
+        "uid": 50
+      },
+      "000000000f1ce896000000002d003f1b": {
+        "originalResource": {
+          "description": null,
+          "publicUrl": "fileadmin/redaktion/benediktinerkloster/bilder/app/rooms/r1_map.bmp",
+          "title": "map"
+        },
+        "pid": 138,
+        "uid": 51
+      }
+    },
+    "pid": 138,
+    "position": 1,
+    "qrcode": "code45456391",
+    "title": "Raum 1",
+    "uid": 1
+  },
+  {
+    "image": [],
+    "pid": 138,
+    "position": 222,
+    "qrcode": "code899038",
+    "title": "Raum 2",
+    "uid": 2
+  }
+]

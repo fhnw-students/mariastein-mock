@@ -9,14 +9,24 @@ app.use(function(req, res, next) {
 
 app.use('/files', express.static('public'));
 
-app.get('/data', function (req, res) {
+app.get('/pages', function (req, res) {
 	var fs = require('fs');
 	var obj;
-	fs.readFile('data.json', 'utf8', function (err, data) {
+	fs.readFile('pages.json', 'utf8', function (err, data) {
 	  if (err) throw err;
 	  obj = JSON.parse(data);
 	  res.send(obj);
 	});
+});
+
+app.get('/rooms', function (req, res) {
+  var fs = require('fs');
+  var obj;
+  fs.readFile('rooms.json', 'utf8', function (err, data) {
+    if (err) throw err;
+    obj = JSON.parse(data);
+    res.send(obj);
+  });
 });
 
 var server = app.listen(3000, function () {

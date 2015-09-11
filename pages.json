@@ -1,12 +1,14 @@
 [
   {
     "content": {
-      "00000000221b14390000000026240c70": {
+      "000000002b311b2200000000721f221f": {
         "content": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
         "image": {
-          "00000000221b147a0000000026240c70": {
+          "000000002b3118f400000000721f221f": {
             "originalResource": {
-              "publicUrl": "files/a.jpeg"
+              "description": null,
+              "publicUrl": "fileadmin/user_upload/bild2.jpg",
+              "title": null
             },
             "pid": 137,
             "uid": 42
@@ -15,6 +17,26 @@
         "pid": 137,
         "qrcode": "PageQRCode1",
         "room": {
+          "image": {
+            "000000002b311f2500000000721f221f": {
+              "originalResource": {
+                "description": null,
+                "publicUrl": "fileadmin/redaktion/benediktinerkloster/bilder/app/rooms/r1_preview.jpeg",
+                "title": "preview"
+              },
+              "pid": 138,
+              "uid": 50
+            },
+            "000000002b311f2700000000721f221f": {
+              "originalResource": {
+                "description": null,
+                "publicUrl": "fileadmin/redaktion/benediktinerkloster/bilder/app/rooms/r1_map.bmp",
+                "title": "map"
+              },
+              "pid": 138,
+              "uid": 51
+            }
+          },
           "pid": 138,
           "position": 1,
           "qrcode": "code45456391",
@@ -22,7 +44,7 @@
           "uid": 1
         },
         "teaser": "Bubu Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
-        "title": "Inahlt",
+        "title": "Seite 1",
         "type": "content",
         "uid": 1
       }
@@ -33,12 +55,13 @@
   },
   {
     "content": {
-      "00000000221b14440000000026240c70": {
+      "000000002b311f2600000000721f221f": {
         "content": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed  diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.  Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor  sit amet.\r\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed  diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.  Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor  sit amet.",
         "image": [],
         "pid": 137,
         "qrcode": "ContentQrCode2",
         "room": {
+          "image": [],
           "pid": 138,
           "position": 222,
           "qrcode": "code899038",
@@ -54,5 +77,33 @@
     "pid": 137,
     "title": "Seite 2",
     "uid": 2
+  },
+  {
+    "content": {
+      "000000002b31187700000000721f221f": {
+        "content": "Willkommen",
+        "image": {
+          "000000002b311f3400000000721f221f": {
+            "originalResource": {
+              "description": null,
+              "publicUrl": "fileadmin/redaktion/benediktinerkloster/bilder/app/others/welcome.JPG",
+              "title": null
+            },
+            "pid": 137,
+            "uid": 52
+          }
+        },
+        "pid": 137,
+        "qrcode": "",
+        "room": null,
+        "teaser": "",
+        "title": "Willkommen",
+        "type": "special-content",
+        "uid": 3
+      }
+    },
+    "pid": 137,
+    "title": "Willkommen",
+    "uid": 3
   }
 ]
