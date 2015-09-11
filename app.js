@@ -36,7 +36,8 @@ var server = app.listen(3000, function () {
   console.log('Mock Server runs on ' + url);
   console.log('========================================');
   console.log('');
-  console.log('get data: ' + url + '/data');
+  console.log('get pages: ' + url + '/pages');
+  console.log('get rooms: ' + url + '/rooms');
   console.log('get files: ' + url + '/files/b.jpeg');
   
 });
