@@ -7,9 +7,9 @@ app.use(function(req, res, next) {
   next();
 });
 
-app.use('/file', express.static('public'));
+app.use('/files', express.static('public'));
 
-app.get('/page', function (req, res) {
+app.get('/pages', function (req, res) {
 	var fs = require('fs');
 	var obj;
 	fs.readFile('pages.json', 'utf8', function (err, data) {
@@ -19,10 +19,10 @@ app.get('/page', function (req, res) {
 	});
 });
 
-app.get('/room', function (req, res) {
+app.get('/rooms', function (req, res) {
   var fs = require('fs');
   var obj;
-  fs.readFile('pages.json', 'utf8', function (err, data) {
+  fs.readFile('rooms.json', 'utf8', function (err, data) {
     if (err) throw err;
     obj = JSON.parse(data);
     res.send(obj);
@@ -36,7 +36,8 @@ var server = app.listen(3000, function () {
   console.log('Mock Server runs on ' + url);
   console.log('========================================');
   console.log('');
-  console.log('get data: ' + url + '/data');
+  console.log('get pages: ' + url + '/pages');
+  console.log('get rooms: ' + url + '/rooms');
   console.log('get files: ' + url + '/files/b.jpeg');
   
 });
